@@ -1,2 +1,21 @@
-# Auto-Healing-Infrastructure-AWS-
-Developed an auto-healing architecture using AWS Auto Scaling, ALB, and CloudWatch to ensure high availability and minimal downtime.
+# Auto-Healing-Infrastructure-AWS
+
+## 📌 Overview
+Implemented a fault-tolerant system using AWS Auto Scaling and Load Balancer.
+
+## ⚙️ Services Used
+- EC2
+- Auto Scaling Group
+- Application Load Balancer
+- CloudWatch
+- Lambda
+
+## 🔄 Workflow
+- Health checks monitor instances
+- Unhealthy instances are terminated
+- New instances are launched automatically
+
+## 🚀 Features
+- High availability
+- Self-healing system
+- Zero downtime architecture
