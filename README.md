@@ -19,3 +19,6 @@ Implemented a fault-tolerant system using AWS Auto Scaling and Load Balancer.
 - High availability
 - Self-healing system
 - Zero downtime architecture
+
+## 📷 Architecture
+![Architecture](auto healing drawio.svg)
