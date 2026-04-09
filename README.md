@@ -22,7 +22,7 @@ Implemented a fault-tolerant system using AWS Auto Scaling and Load Balancer.
 
 ## 📷 Architecture
 
-<img width="751" height="305" alt="Auto Healing" src="https://github.com/user-attachments/assets/42023152-16bc-4063-8634-95e1089465c1" />
+<img width="1049" height="403" alt="Auto Healing" src="https://github.com/user-attachments/assets/21ec84ba-edc7-4e7e-955c-9cc8a0b31884" />
 
 
 ## 📈 Key Outcomes
